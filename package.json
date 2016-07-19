@@ -1,0 +1,22 @@
+{
+  "name": "chick-toilet-bot",
+  "description": "Chicken-Toilet-Bot, a Telegram bot by @din_lo_it",
+  "version": "0.1",
+  "contributors": [
+    {
+      "name": "",
+      "email": "",
+      "web": ""
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "pixelpanic",
+      "email": "",
+      "web": "http://telegram.me/din_lo_it"
+    }
+  ],
+  "dependencies": {
+    "telegram-node-bot": ""
+  }
+}
