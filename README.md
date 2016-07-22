@@ -23,3 +23,9 @@ Install API warpper:
 `npm install --save telegram-node-bot`
 
 and run.
+
+## Known issues
+
+If the bot inactive for certain period, you have to use the sunny command to wake it up:
+
+`/sunny`
